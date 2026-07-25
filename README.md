@@ -1,2 +1,2 @@
 # boxmanufaktur
-Konfigurator Boxmanufaktur
+index
